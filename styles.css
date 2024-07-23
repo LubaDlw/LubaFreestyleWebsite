@@ -203,7 +203,7 @@
 .main{
     background-color: #f5f5dc; /* Beige background */
 background-image: url(./images/WhatsApp\ Image\ 2024-07-22\ at\ 18.58.28_0456d867.jpg) ;
-background-image:url(./images/WhatsApp\ Image\ 2024-07-22\ at\ 18.58.28_0456d867.jpg) ;
+
 background-size: cover;
 background-position: center; /* This centers the image */
     background-repeat: no-repeat;
@@ -233,7 +233,7 @@ background-position: center; /* This centers the image */
 .main__content h1{
     font-size: 6rem;
     background-color: #deb887; /* Burlywood */
-    background-image:  linear-gradient(to top, #d2b48c 0%, #fff5e6 100%); /* Tan to light cream */
+   /* background-image:  linear-gradient(to top, #d2b48c 0%, #fff5e6 100%); /* Tan to light cream */
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -245,7 +245,7 @@ background-position: center; /* This centers the image */
 .main__content h2{
     font-size: 6rem;
     background-color: #deb887; /* Burlywood */
-    background-image:  linear-gradient(to top, #8b4513 0%, #d2b48c 100%); /* SaddleBrown to Tan */
+   /* background-image:  linear-gradient(to top, #8b4513 0%, #d2b48c 100%); /* SaddleBrown to Tan */
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
