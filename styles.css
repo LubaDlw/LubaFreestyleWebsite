@@ -6,6 +6,11 @@
     font-family: 'Kumbh Sans', sans-serif;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
+
 /* Navbar */
 .navbar{
     background: #f5f5dc; /* Beige background */
