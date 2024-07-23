@@ -226,6 +226,10 @@ background-position: center; /* This centers the image */
     padding:  0 50px;
 }
 
+.main__content{
+    background-image: url(./images/WhatsApp\ Image\ 2024-07-22\ at\ 18.58.28_0456d867.jpg);
+}
+
 .main__content h1{
     font-size: 6rem;
     background-color: #deb887; /* Burlywood */
