@@ -404,8 +404,8 @@ background-position: center; /* This centers the image */
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17, 17,17,0.6) 100%), 
-    url('/images/4d60fa63264a4c72e8da881da4219229.jpg');
+    
+    background-image: url(./images/4d60fa63264a4c72e8da881da4219229.jpg);
     background-size: cover;
     position: relative;
     color: #fff;
@@ -417,8 +417,9 @@ background-position: center; /* This centers the image */
 }
 
 .services__card:nth-child(3){
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17, 17,17,0.6) 100%), 
-    url('/images/e06e67de7fd4362e6a39195ab7877e65.jpg');
+   
+
+    background-image: url(./images/e06e67de7fd4362e6a39195ab7877e65.jpg);
 }
 
 .services h2{
