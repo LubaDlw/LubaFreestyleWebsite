@@ -633,5 +633,6 @@ div.scroll-container img {
     
     display: flex;
     justify-content: center;
-    background:  #d2b48c; /* Tan */
+    background:  #fff; /* Tan */
+    height: 90px;
 }
